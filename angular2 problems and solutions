@@ -1,0 +1,3 @@
+problem: rxjs/observable has no exported member observable
+
+solution: just do npm i rxjs-compat right after npm install
