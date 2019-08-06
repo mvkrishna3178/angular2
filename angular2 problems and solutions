@@ -1,3 +1,7 @@
-problem: rxjs/observable has no exported member observable
+1. problem: rxjs/observable has no exported member observable
 
 solution: just do npm i rxjs-compat right after npm install
+
+2. adding bootstrap to angular project with visualstudio code 
+solution: https://www.c-sharpcorner.com/blogs/adding-bootstrap-in-angular-6-project
+https://www.geeksforgeeks.org/include-bootstrap-in-angularjs-using-ng-bootstrap/
