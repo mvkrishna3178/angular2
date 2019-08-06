@@ -3,5 +3,5 @@
 solution: just do npm i rxjs-compat right after npm install
 
 2. adding bootstrap to angular project with visualstudio code 
-solution: https://www.c-sharpcorner.com/blogs/adding-bootstrap-in-angular-6-project
-https://www.geeksforgeeks.org/include-bootstrap-in-angularjs-using-ng-bootstrap/
+solution1: https://www.c-sharpcorner.com/blogs/adding-bootstrap-in-angular-6-project
+solution2:https://www.geeksforgeeks.org/include-bootstrap-in-angularjs-using-ng-bootstrap/
