@@ -1,0 +1,13 @@
+Select folder path url in folder then type cmd then enter it will navigate to command prompt with folderpath.
+then type "code ." then enter it will open vs code.
+
+ng new appname  ----create new app
+ng serve        -----build
+ng s -o         -----run
+ng g c component name ----------generate component 
+ng g m modulename----------------generate module
+ng g s servicename
+
+fake backend
+json-server --watch db.json
+
